@@ -13,7 +13,7 @@ export default function NewProject() {
         <div>
             <Input label="Title" />
             <Input label="Description" textarea />
-            <Input label="DueDate" />
+            <Input label="Due Date" />
         </div>
     </div>
 }
